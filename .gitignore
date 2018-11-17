@@ -1,0 +1,2 @@
+# Ignore venv (assuming you called it venv)
+venv/*
